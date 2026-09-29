@@ -50,7 +50,7 @@ a:hover { text-decoration: underline; }
 .header-inner { display: flex; justify-content: space-between; align-items: center; height: 72px; }
 .logo { white-space: nowrap; display: flex; align-items: center; gap: 10px; color: var(--fg); font-weight: 700; font-size: 1.05rem; letter-spacing: -0.02em; }
 .logo:hover { text-decoration: none; }
-.logo-mark { font-family: "JetBrains Mono", monospace; color: var(--accent); font-size: 0.95rem; }
+.logo-mark { display: block; border-radius: 7px; }
 nav { display: flex; gap: 32px; }
 nav a { color: var(--muted); font-size: 0.95rem; font-weight: 500; }
 nav a:hover { color: var(--fg); text-decoration: none; }
