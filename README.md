@@ -5,7 +5,7 @@
 <h1 align="center">Monoid Studio</h1>
 
 <p align="center">
-  Source of <a href="https://monoid.studio">monoid.studio</a>, the website of Monoid Studio, an independent software studio in Kawasaki, Japan.
+  Source of <a href="https://monoid.studio">monoid.studio</a>, the website of Monoid Studio, an independent software studio in Ginza, Tokyo, Japan.
 </p>
 
 ## Overview
