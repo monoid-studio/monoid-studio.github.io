@@ -16,11 +16,12 @@ A static site served by GitHub Pages from the `main` branch root. It uses plain 
 
 | File | Purpose |
 | --- | --- |
-| `index.html` | Landing page (services, about, contact) |
+| `index.html` | Landing page (products, about, contact) |
 | `privacy.html` | Privacy policy for apps and services |
 | `style.css` | Shared stylesheet |
 | `logo.svg` / `logo.png` | Logo mark (favicon, Open Graph image) |
 | `logo-square.svg` / `logo-square.png` | Square logo with background, for avatars |
+| `deariary.svg` | deariary product icon |
 | `apple-touch-icon.png` | 180×180 icon for iOS home screens |
 | `CNAME` | Custom domain (`monoid.studio`) |
 

@@ -92,6 +92,9 @@ nav a:hover { color: var(--fg); text-decoration: none; }
 .card-num { font-family: "JetBrains Mono", monospace; font-size: 0.8rem; color: var(--accent); }
 .cards h3 { margin: 16px 0 10px; font-size: 1.15rem; letter-spacing: -0.01em; }
 .cards p { margin: 0; color: var(--muted); }
+.product-head { display: flex; align-items: center; gap: 12px; }
+.product-icon { display: block; }
+.card-link { display: inline-block; margin-top: 20px; font-weight: 600; font-size: 0.95rem; }
 
 .info { display: grid; grid-template-columns: max-content 1fr; gap: 16px 48px; margin: 0; font-size: 1.05rem; }
 .info dt { color: var(--muted); }
